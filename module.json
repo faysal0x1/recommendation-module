@@ -1,0 +1,14 @@
+{
+    "name": "Recommendation",
+    "alias": "recommendation",
+    "description": "Product recommendation engine module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\Recommendation\\Providers\\RecommendationModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
