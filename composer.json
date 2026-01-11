@@ -3,7 +3,7 @@
     "description": "AI-ready recommendation engine module for Laravel storefronts.",
     "type": "laravel-module",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "laravel",
         "module",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "nwidart/laravel-modules": "^11.0"
+        "nwidart/laravel-modules": "^12.0"
     },
     "autoload": {
         "psr-4": {
